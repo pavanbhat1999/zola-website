@@ -30,7 +30,7 @@
         padding: 1em;
       }
       #header {
-        background-color: #FFFFFF;
+        background-color: #ffffff;
         position: sticky;
         top: 0;
       }
@@ -43,16 +43,19 @@
         width: 100%;
         background: #ffffff;
       }
+      a {
+        font-size: 1.5rem;
+      }
     </style>
   </head>
 
   <body>
     <div id="header">
       <h1>🙍Pavan Bhat</h1>
-      <a href="/"> [ HOME ]</a>
-      <a href="/links"> [ LINKS ]</a>
-      <a href="/blogs"> [ BLOG ]</a>
-    <hr />
+      <a href="/">HOME</a>
+      <a href="/links">LINKS</a>
+      <a href="/blogs">BLOG</a>
+      <hr />
     </div>
     <section class="section">
       <div class="container">{% block content %} {% endblock %}</div>
