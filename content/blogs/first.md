@@ -1,6 +1,6 @@
 +++
 title = "Buy your own domain name at $1"
-date = 2019-11-27
+date = 2020-11-27
 +++
 
 # Buy your own domain name at $1
