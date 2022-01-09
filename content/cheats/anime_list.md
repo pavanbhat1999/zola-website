@@ -1,32 +1,32 @@
 +++
 title = "My Anime List"
 +++
-- Full Metal Alchemis Brotherhood
+## Full Metal Alchemis Brotherhood
 
 <img src="/fmab.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
-- Kimi no na wa Your Name
+## Kimi no na wa Your Name
 
 <img src="/yourname2.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
-- Code Geas
+## Code Geas
 
 <img src="/code-geass.jpeg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
-- Death Note
+## Death Note
 
 <img src="/ryuk_face.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
-- Dr stone
+## Dr. stone
 
-- Dragon Ball
+## Dragon Ball
 
-- Jujitsu Kaisen
+## Jujitsu Kaisen
 
-- Demon Slayer
+## Demon Slayer
 
-- Tokyo Ghoul
+## Tokyo Ghoul
 
-- Solo Levelling
+## Solo Levelling
 
-- Fate Series
+## Fate Series
