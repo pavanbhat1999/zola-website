@@ -30,3 +30,7 @@ title = "My Anime List"
 ## Solo Levelling
 
 ## Fate Series
+
+## Assassination classrooom 
+
+## Spy x Family
