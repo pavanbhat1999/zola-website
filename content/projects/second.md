@@ -1,5 +1,6 @@
 +++
 title = "Project 2"
+date = 2022-02-04
 +++
 
 1. Battery status
