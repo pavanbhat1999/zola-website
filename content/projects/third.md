@@ -1,5 +1,5 @@
 +++
-title = "My project 3"
+title = "Project 3"
 +++
 
 # Project 3
