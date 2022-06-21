@@ -1,6 +1,9 @@
 +++
 title = "My Anime List"
 +++
+
+# Watched
+
 ## Full Metal Alchemis Brotherhood
 
 <img src="/fmab.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
@@ -34,6 +37,10 @@ title = "My Anime List"
 ## Assassination classrooom
 
 ## Spy x Family
+
+<hr>
+
+# Watch List
 
 ## Great pretender
 
