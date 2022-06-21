@@ -2,4 +2,11 @@
 title = "Automated Answer Evaluator"
 date = 2022-01-04
 +++
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.
+
+[Click To GOTO Notebook](https://github.com/pavanbhat1999/project_notebook/blob/master/automate_scoring.ipynb)
+
+[Click for Website](https://autoevaluation.herokuapp.com/home/)
+
+- An experimental project based on Machine Learning and NLP for evaluation of answer scripts.
+
+- The theme of the project is to automate the process of evaluation of answer scripts of the student.
