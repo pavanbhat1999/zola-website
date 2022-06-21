@@ -31,6 +31,10 @@ title = "My Anime List"
 
 ## Fate Series
 
-## Assassination classrooom 
+## Assassination classrooom
 
 ## Spy x Family
+
+## Great pretender
+
+## Darwins Game
