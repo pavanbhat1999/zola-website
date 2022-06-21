@@ -7,7 +7,7 @@ title = "My Anime List"
 # Watched
 <hr>
 
-## Full Metal Alchemis Brotherhood
+## Full Metal Alchemist Brotherhood
 
 <img src="/fmab.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
@@ -15,13 +15,13 @@ title = "My Anime List"
 
 <img src="/yourname2.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
-## Code Geas
-
-<img src="/code-geass.jpeg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
-
 ## Death Note
 
 <img src="/ryuk_face.jpg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
+
+## Code Geas
+
+<img src="/code-geass.jpeg" alt="Ultra Instinct Goku" width="500" height="300" style="display:block;margin:0 auto">
 
 ## Dr. stone
 
@@ -33,7 +33,7 @@ title = "My Anime List"
 
 ## Tokyo Ghoul
 
-## Solo Levelling
+## Classroom of elite
 
 ## Fate Series
 
@@ -41,6 +41,7 @@ title = "My Anime List"
 
 ## Spy x Family
 
+###  * Solo Levelling
 <hr>
 
 # Watch List
@@ -49,3 +50,7 @@ title = "My Anime List"
 ## Great pretender
 
 ## Darwins Game
+
+## One Piece
+
+## Bleach
