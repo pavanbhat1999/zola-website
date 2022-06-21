@@ -2,7 +2,10 @@
 title = "My Anime List"
 +++
 
+<hr>
+
 # Watched
+<hr>
 
 ## Full Metal Alchemis Brotherhood
 
@@ -41,6 +44,7 @@ title = "My Anime List"
 <hr>
 
 # Watch List
+<hr>
 
 ## Great pretender
 
